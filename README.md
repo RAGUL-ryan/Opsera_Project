@@ -101,3 +101,6 @@ Principal: principal@school.com
 Teacher: teacher@school.com
 Student: student@school.com
 All demo accounts use password: "password"
+
+
+LIVE PROJECT LINK OF MY PROJECT : https://celebrated-crumble-253ff5.netlify.app/
