@@ -6,36 +6,46 @@ Project Overview
 Excellence Academy is a comprehensive, modern school management website built with React and TypeScript. This production-ready application provides a complete digital platform for educational institutions, featuring role-based access control, performance analytics, and streamlined administrative processes.
 
 Key Features
+
 🏠 Homepage
 Welcoming hero section with call-to-action buttons
 Quick navigation links to all major sections
 Recent announcements display
 School statistics and achievements showcase
 About section highlighting the institution's mission
+
+
 📚 Academics
 Comprehensive curriculum overview for all grade levels (K-12)
 Detailed examination schedules and information
 Faculty profiles with qualifications and experience
 Academic excellence statistics and achievements
 Subject-wise course descriptions
+
+
 🎓 Admissions
 Step-by-step admission process guide
 Interactive online admission form with validation
 Document requirements and eligibility criteria
 Real-time form submission with success feedback
 Contact information for admission inquiries
+
+
 🎉 Events & Gallery
 Upcoming and past events categorization
 Event filtering by type (academic, cultural, sports)
 Rich photo gallery with hover effects
 Video gallery section for event highlights
 Event statistics and participation metrics
+
+
 📢 Announcements
 Filterable announcements by type and priority
 Priority-based visual indicators (high, medium, low)
 Date-based organization of notices
-Category-specific announcements (exams, holidays, PTM)
-Quick statistics summary
+Category-specific announ
+
+
 📊 Insights Dashboard (Role-Based Access)
 Principal View:
 School-wide performance analytics
@@ -55,6 +65,8 @@ Comparison with class averages
 Subject-wise performance analysis
 Downloadable report cards
 Progress tracking and improvement areas
+
+
 👨‍💼 Admin Panel
 Admission management with status tracking
 Student database management
